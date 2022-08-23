@@ -1,0 +1,1 @@
+The best 3 models are (in order): 1- SVC(C=5.0)0.982 2- SVC(C=10.0)0.982 3- SVC(C=15.0)0.982

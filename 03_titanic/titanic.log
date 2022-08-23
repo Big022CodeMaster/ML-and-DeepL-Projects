@@ -1,0 +1,100 @@
+name: root -- level: INFO -- 2022-06-21 09:18:49,621 -- filename: titanic.py -- module: titanic -- function: configure_logger -- line: 58 -- message: the logger is configured
+name: root -- level: INFO -- 2022-06-21 09:18:49,622 -- filename: titanic.py -- module: titanic -- function: __init__ -- line: 29 -- message: the class is initialized
+name: root -- level: INFO -- 2022-06-21 09:18:49,632 -- filename: titanic.py -- module: titanic -- function: import_dataset -- line: 76 -- message: 
+name: root -- level: INFO -- 2022-06-21 09:18:49,645 -- filename: titanic.py -- module: titanic -- function: prepare_dataset -- line: 80 -- message: dataset prepared
+name: root -- level: INFO -- 2022-06-21 09:18:49,648 -- filename: titanic.py -- module: titanic -- function: split_X_y -- line: 86 -- message: datset split into X and y
+name: root -- level: INFO -- 2022-06-21 09:18:49,650 -- filename: titanic.py -- module: titanic -- function: encode_categories -- line: 92 -- message: categories are encoded
+name: root -- level: INFO -- 2022-06-21 09:18:49,939 -- filename: titanic.py -- module: titanic -- function: correct_datatypes_X_y -- line: 99 -- message: datatypes are corrected
+name: root -- level: INFO -- 2022-06-21 09:18:49,941 -- filename: titanic.py -- module: titanic -- function: split_train_test -- line: 105 -- message: datatset is split into training and testing sets
+name: root -- level: INFO -- 2022-06-21 09:18:49,992 -- filename: titanic.py -- module: titanic -- function: fit_model -- line: 109 -- message: the model is fitted
+name: root -- level: INFO -- 2022-06-21 09:18:49,995 -- filename: titanic.py -- module: titanic -- function: save_model_score -- line: 114 -- message: the model score is calculated and saved
+name: root -- level: INFO -- 2022-06-21 09:18:49,998 -- filename: titanic.py -- module: titanic -- function: save_model_score -- line: 119 -- message: the file is accessed for writing
+name: root -- level: INFO -- 2022-06-21 09:18:50,021 -- filename: titanic.py -- module: titanic -- function: save_models -- line: 131 -- message: all models are saved
+name: root -- level: INFO -- 2022-06-21 09:21:37,264 -- filename: titanic.py -- module: titanic -- function: configure_logger -- line: 58 -- message: the logger is configured
+name: root -- level: INFO -- 2022-06-21 09:21:37,265 -- filename: titanic.py -- module: titanic -- function: __init__ -- line: 29 -- message: the class is initialized
+name: root -- level: INFO -- 2022-06-21 09:21:37,271 -- filename: titanic.py -- module: titanic -- function: import_dataset -- line: 76 -- message: 
+name: root -- level: INFO -- 2022-06-21 09:21:37,291 -- filename: titanic.py -- module: titanic -- function: prepare_dataset -- line: 80 -- message: dataset prepared
+name: root -- level: INFO -- 2022-06-21 09:21:37,292 -- filename: titanic.py -- module: titanic -- function: split_X_y -- line: 86 -- message: datset split into X and y
+name: root -- level: INFO -- 2022-06-21 09:21:37,293 -- filename: titanic.py -- module: titanic -- function: encode_categories -- line: 92 -- message: categories are encoded
+name: root -- level: INFO -- 2022-06-21 09:21:37,467 -- filename: titanic.py -- module: titanic -- function: correct_datatypes_X_y -- line: 99 -- message: datatypes are corrected
+name: root -- level: INFO -- 2022-06-21 09:21:37,469 -- filename: titanic.py -- module: titanic -- function: split_train_test -- line: 105 -- message: datatset is split into training and testing sets
+name: root -- level: INFO -- 2022-06-21 09:21:37,484 -- filename: titanic.py -- module: titanic -- function: fit_model -- line: 109 -- message: the model is fitted
+name: root -- level: INFO -- 2022-06-21 09:21:37,488 -- filename: titanic.py -- module: titanic -- function: save_model_score -- line: 114 -- message: the model score is calculated and saved
+name: root -- level: INFO -- 2022-06-21 09:21:37,489 -- filename: titanic.py -- module: titanic -- function: save_model_score -- line: 119 -- message: the file is accessed for writing
+name: root -- level: INFO -- 2022-06-21 09:21:37,492 -- filename: titanic.py -- module: titanic -- function: save_models -- line: 131 -- message: all models are saved
+name: root -- level: INFO -- 2022-06-21 09:22:29,959 -- filename: titanic.py -- module: titanic -- function: configure_logger -- line: 58 -- message: the logger is configured
+name: root -- level: INFO -- 2022-06-21 09:22:29,959 -- filename: titanic.py -- module: titanic -- function: __init__ -- line: 29 -- message: the class is initialized
+name: root -- level: INFO -- 2022-06-21 09:22:29,967 -- filename: titanic.py -- module: titanic -- function: import_dataset -- line: 76 -- message: 
+name: root -- level: INFO -- 2022-06-21 09:22:29,969 -- filename: titanic.py -- module: titanic -- function: prepare_dataset -- line: 80 -- message: dataset prepared
+name: root -- level: INFO -- 2022-06-21 09:22:29,983 -- filename: titanic.py -- module: titanic -- function: split_X_y -- line: 86 -- message: datset split into X and y
+name: root -- level: INFO -- 2022-06-21 09:22:29,990 -- filename: titanic.py -- module: titanic -- function: encode_categories -- line: 92 -- message: categories are encoded
+name: root -- level: INFO -- 2022-06-21 09:22:30,310 -- filename: titanic.py -- module: titanic -- function: correct_datatypes_X_y -- line: 99 -- message: datatypes are corrected
+name: root -- level: INFO -- 2022-06-21 09:22:30,312 -- filename: titanic.py -- module: titanic -- function: split_train_test -- line: 105 -- message: datatset is split into training and testing sets
+name: root -- level: INFO -- 2022-06-21 09:22:30,333 -- filename: titanic.py -- module: titanic -- function: fit_model -- line: 109 -- message: the model is fitted
+name: root -- level: INFO -- 2022-06-21 09:22:30,336 -- filename: titanic.py -- module: titanic -- function: save_model_score -- line: 114 -- message: the model score is calculated and saved
+name: root -- level: INFO -- 2022-06-21 09:22:30,338 -- filename: titanic.py -- module: titanic -- function: save_model_score -- line: 119 -- message: the file is accessed for writing
+name: root -- level: INFO -- 2022-06-21 09:22:30,339 -- filename: titanic.py -- module: titanic -- function: save_models -- line: 131 -- message: all models are saved
+name: root -- level: INFO -- 2022-06-21 09:23:17,162 -- filename: titanic.py -- module: titanic -- function: configure_logger -- line: 58 -- message: the logger is configured
+name: root -- level: INFO -- 2022-06-21 09:23:17,162 -- filename: titanic.py -- module: titanic -- function: __init__ -- line: 29 -- message: the class is initialized
+name: root -- level: INFO -- 2022-06-21 09:23:17,172 -- filename: titanic.py -- module: titanic -- function: import_dataset -- line: 76 -- message: 
+name: root -- level: INFO -- 2022-06-21 09:23:17,174 -- filename: titanic.py -- module: titanic -- function: prepare_dataset -- line: 80 -- message: dataset prepared
+name: root -- level: INFO -- 2022-06-21 09:23:17,176 -- filename: titanic.py -- module: titanic -- function: split_X_y -- line: 86 -- message: datset split into X and y
+name: root -- level: INFO -- 2022-06-21 09:23:17,177 -- filename: titanic.py -- module: titanic -- function: encode_categories -- line: 92 -- message: categories are encoded
+name: root -- level: INFO -- 2022-06-21 09:23:17,481 -- filename: titanic.py -- module: titanic -- function: correct_datatypes_X_y -- line: 99 -- message: datatypes are corrected
+name: root -- level: INFO -- 2022-06-21 09:23:17,483 -- filename: titanic.py -- module: titanic -- function: split_train_test -- line: 105 -- message: datatset is split into training and testing sets
+name: root -- level: INFO -- 2022-06-21 09:23:50,401 -- filename: titanic.py -- module: titanic -- function: configure_logger -- line: 58 -- message: the logger is configured
+name: root -- level: INFO -- 2022-06-21 09:23:50,412 -- filename: titanic.py -- module: titanic -- function: __init__ -- line: 29 -- message: the class is initialized
+name: root -- level: INFO -- 2022-06-21 09:23:50,461 -- filename: titanic.py -- module: titanic -- function: import_dataset -- line: 76 -- message: 
+name: root -- level: INFO -- 2022-06-21 09:23:50,484 -- filename: titanic.py -- module: titanic -- function: prepare_dataset -- line: 80 -- message: dataset prepared
+name: root -- level: INFO -- 2022-06-21 09:23:50,503 -- filename: titanic.py -- module: titanic -- function: split_X_y -- line: 86 -- message: datset split into X and y
+name: root -- level: INFO -- 2022-06-21 09:23:50,520 -- filename: titanic.py -- module: titanic -- function: encode_categories -- line: 92 -- message: categories are encoded
+name: root -- level: INFO -- 2022-06-21 09:23:50,880 -- filename: titanic.py -- module: titanic -- function: correct_datatypes_X_y -- line: 99 -- message: datatypes are corrected
+name: root -- level: INFO -- 2022-06-21 09:23:50,882 -- filename: titanic.py -- module: titanic -- function: split_train_test -- line: 105 -- message: datatset is split into training and testing sets
+name: root -- level: INFO -- 2022-06-21 09:23:50,893 -- filename: titanic.py -- module: titanic -- function: fit_model -- line: 109 -- message: the model is fitted
+name: root -- level: INFO -- 2022-06-21 09:23:50,895 -- filename: titanic.py -- module: titanic -- function: save_model_score -- line: 114 -- message: the model score is calculated and saved
+name: root -- level: INFO -- 2022-06-21 09:23:50,896 -- filename: titanic.py -- module: titanic -- function: save_model_score -- line: 119 -- message: the file is accessed for writing
+name: root -- level: INFO -- 2022-06-21 09:23:50,897 -- filename: titanic.py -- module: titanic -- function: save_models -- line: 131 -- message: all models are saved
+name: root -- level: INFO -- 2022-06-21 09:24:10,566 -- filename: titanic.py -- module: titanic -- function: configure_logger -- line: 58 -- message: the logger is configured
+name: root -- level: INFO -- 2022-06-21 09:24:10,567 -- filename: titanic.py -- module: titanic -- function: __init__ -- line: 29 -- message: the class is initialized
+name: root -- level: INFO -- 2022-06-21 09:24:10,574 -- filename: titanic.py -- module: titanic -- function: import_dataset -- line: 76 -- message: 
+name: root -- level: INFO -- 2022-06-21 09:24:10,576 -- filename: titanic.py -- module: titanic -- function: prepare_dataset -- line: 80 -- message: dataset prepared
+name: root -- level: INFO -- 2022-06-21 09:24:10,578 -- filename: titanic.py -- module: titanic -- function: split_X_y -- line: 86 -- message: datset split into X and y
+name: root -- level: INFO -- 2022-06-21 09:24:10,579 -- filename: titanic.py -- module: titanic -- function: encode_categories -- line: 92 -- message: categories are encoded
+name: root -- level: INFO -- 2022-06-21 09:24:10,868 -- filename: titanic.py -- module: titanic -- function: correct_datatypes_X_y -- line: 99 -- message: datatypes are corrected
+name: root -- level: INFO -- 2022-06-21 09:24:10,870 -- filename: titanic.py -- module: titanic -- function: split_train_test -- line: 105 -- message: datatset is split into training and testing sets
+name: root -- level: INFO -- 2022-06-21 09:24:10,892 -- filename: titanic.py -- module: titanic -- function: fit_model -- line: 109 -- message: the model is fitted
+name: root -- level: INFO -- 2022-06-21 09:24:10,895 -- filename: titanic.py -- module: titanic -- function: save_model_score -- line: 114 -- message: the model score is calculated and saved
+name: root -- level: INFO -- 2022-06-21 09:24:10,897 -- filename: titanic.py -- module: titanic -- function: save_model_score -- line: 119 -- message: the file is accessed for writing
+name: root -- level: INFO -- 2022-06-21 09:24:10,898 -- filename: titanic.py -- module: titanic -- function: save_models -- line: 131 -- message: all models are saved
+name: root -- level: INFO -- 2022-06-21 09:24:20,505 -- filename: titanic.py -- module: titanic -- function: configure_logger -- line: 58 -- message: the logger is configured
+name: root -- level: INFO -- 2022-06-21 09:24:20,506 -- filename: titanic.py -- module: titanic -- function: __init__ -- line: 29 -- message: the class is initialized
+name: root -- level: INFO -- 2022-06-21 09:24:20,515 -- filename: titanic.py -- module: titanic -- function: import_dataset -- line: 76 -- message: 
+name: root -- level: INFO -- 2022-06-21 09:24:20,517 -- filename: titanic.py -- module: titanic -- function: prepare_dataset -- line: 80 -- message: dataset prepared
+name: root -- level: INFO -- 2022-06-21 09:24:20,519 -- filename: titanic.py -- module: titanic -- function: split_X_y -- line: 86 -- message: datset split into X and y
+name: root -- level: INFO -- 2022-06-21 09:24:20,520 -- filename: titanic.py -- module: titanic -- function: encode_categories -- line: 92 -- message: categories are encoded
+name: root -- level: INFO -- 2022-06-21 09:24:20,794 -- filename: titanic.py -- module: titanic -- function: correct_datatypes_X_y -- line: 99 -- message: datatypes are corrected
+name: root -- level: INFO -- 2022-06-21 09:24:20,796 -- filename: titanic.py -- module: titanic -- function: split_train_test -- line: 105 -- message: datatset is split into training and testing sets
+name: root -- level: INFO -- 2022-06-21 09:24:20,821 -- filename: titanic.py -- module: titanic -- function: fit_model -- line: 109 -- message: the model is fitted
+name: root -- level: INFO -- 2022-06-21 09:24:20,829 -- filename: titanic.py -- module: titanic -- function: save_model_score -- line: 114 -- message: the model score is calculated and saved
+name: root -- level: INFO -- 2022-06-21 09:24:20,831 -- filename: titanic.py -- module: titanic -- function: save_model_score -- line: 119 -- message: the file is accessed for writing
+name: root -- level: INFO -- 2022-06-21 09:24:20,847 -- filename: titanic.py -- module: titanic -- function: save_models -- line: 131 -- message: all models are saved
+name: root -- level: INFO -- 2022-06-21 09:24:47,255 -- filename: titanic.py -- module: titanic -- function: configure_logger -- line: 58 -- message: the logger is configured
+name: root -- level: INFO -- 2022-06-21 09:24:47,256 -- filename: titanic.py -- module: titanic -- function: __init__ -- line: 29 -- message: the class is initialized
+name: root -- level: INFO -- 2022-06-21 09:24:47,265 -- filename: titanic.py -- module: titanic -- function: import_dataset -- line: 76 -- message: 
+name: root -- level: INFO -- 2022-06-21 09:24:47,279 -- filename: titanic.py -- module: titanic -- function: prepare_dataset -- line: 80 -- message: dataset prepared
+name: root -- level: INFO -- 2022-06-21 09:24:47,333 -- filename: titanic.py -- module: titanic -- function: split_X_y -- line: 86 -- message: datset split into X and y
+name: root -- level: INFO -- 2022-06-21 09:24:47,374 -- filename: titanic.py -- module: titanic -- function: encode_categories -- line: 92 -- message: categories are encoded
+name: root -- level: INFO -- 2022-06-21 09:24:47,654 -- filename: titanic.py -- module: titanic -- function: correct_datatypes_X_y -- line: 99 -- message: datatypes are corrected
+name: root -- level: INFO -- 2022-06-21 09:24:47,656 -- filename: titanic.py -- module: titanic -- function: split_train_test -- line: 105 -- message: datatset is split into training and testing sets
+name: root -- level: INFO -- 2022-06-21 09:25:08,666 -- filename: titanic.py -- module: titanic -- function: configure_logger -- line: 58 -- message: the logger is configured
+name: root -- level: INFO -- 2022-06-21 09:25:08,667 -- filename: titanic.py -- module: titanic -- function: __init__ -- line: 29 -- message: the class is initialized
+name: root -- level: INFO -- 2022-06-21 09:25:08,673 -- filename: titanic.py -- module: titanic -- function: import_dataset -- line: 76 -- message: 
+name: root -- level: INFO -- 2022-06-21 09:25:08,677 -- filename: titanic.py -- module: titanic -- function: prepare_dataset -- line: 80 -- message: dataset prepared
+name: root -- level: INFO -- 2022-06-21 09:25:08,702 -- filename: titanic.py -- module: titanic -- function: split_X_y -- line: 86 -- message: datset split into X and y
+name: root -- level: INFO -- 2022-06-21 09:25:08,705 -- filename: titanic.py -- module: titanic -- function: encode_categories -- line: 92 -- message: categories are encoded
+name: root -- level: INFO -- 2022-06-21 09:25:09,094 -- filename: titanic.py -- module: titanic -- function: correct_datatypes_X_y -- line: 99 -- message: datatypes are corrected
+name: root -- level: INFO -- 2022-06-21 09:25:09,096 -- filename: titanic.py -- module: titanic -- function: split_train_test -- line: 105 -- message: datatset is split into training and testing sets
+name: root -- level: INFO -- 2022-06-21 09:25:09,116 -- filename: titanic.py -- module: titanic -- function: fit_model -- line: 109 -- message: the model is fitted
+name: root -- level: INFO -- 2022-06-21 09:25:09,119 -- filename: titanic.py -- module: titanic -- function: save_model_score -- line: 114 -- message: the model score is calculated and saved
+name: root -- level: INFO -- 2022-06-21 09:25:09,121 -- filename: titanic.py -- module: titanic -- function: save_model_score -- line: 119 -- message: the file is accessed for writing
+name: root -- level: INFO -- 2022-06-21 09:25:09,126 -- filename: titanic.py -- module: titanic -- function: save_models -- line: 131 -- message: all models are saved

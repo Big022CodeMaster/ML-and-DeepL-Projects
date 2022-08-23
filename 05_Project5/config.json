@@ -1,0 +1,7 @@
+{"test_size": 0.2,
+    "kernel_options": ["linear","poly","rbf","sigmoid"],
+    "C_options": [1.0, 2.0, 3.0, 4.0, 5.0, 10.0, 15.0, 20.0, 30.0, 40.0, 50.0, 80.0, 100.0],
+    "log_file_name": "analysis.log",
+    "log_format": "%(name)s - %(levelname)s - %(asctime)s - %(message)s" 
+
+}

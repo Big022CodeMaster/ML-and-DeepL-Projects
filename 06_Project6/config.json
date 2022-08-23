@@ -1,0 +1,7 @@
+{"n_folds": 10,
+"n_top_models": 3,
+"name_of_decision_file": ".decision.txt",
+ "log_file_name": "analysis.log",
+ "log_format": "%(name)s - %(levelname)s - %(asctime)s - %(message)s" 
+
+}

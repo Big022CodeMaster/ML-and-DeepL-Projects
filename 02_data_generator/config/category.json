@@ -1,0 +1,75 @@
+{
+    "data": {
+        "personal score": {
+            "weight": 1,
+            "values": {
+                "1": 1,
+                "2": 2,
+                "3": 3,
+                "4": 4,
+                "5": 5
+            }
+        },
+        "academic score": {
+            "weight": 1,
+            "values": {
+                "no academic": 0,
+                "bachelor": 1,
+                "master": 2,
+                "phd": 3
+            }
+        }
+    },
+    "technical score": {
+        "python": {
+            "weight": 3,
+            "values": {
+                "1": 1,
+                "2": 2,
+                "3": 3,
+                "4": 4,
+                "5": 5
+            }
+        },
+        "sql": {
+            "weight": 3,
+            "values": {
+                "1": 1,
+                "2": 2,
+                "3": 3,
+                "4": 4,
+                "5": 5
+            }
+        },
+        "nosql": {
+            "weight": 1,
+            "values": {
+                "1": 1,
+                "2": 2,
+                "3": 3,
+                "4": 4,
+                "5": 5
+            }
+        },
+        "functional_programming": {
+            "weight": 5,
+            "values": {
+                "1": 1,
+                "2": 2,
+                "3": 3,
+                "4": 4,
+                "5": 5
+            }
+        },
+        "object_oriented": {
+            "weight": 3,
+            "values": {
+                "1": 1,
+                "2": 2,
+                "3": 3,
+                "4": 4,
+                "5": 5
+            }
+        }
+    }
+}

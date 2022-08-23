@@ -1,0 +1,141 @@
+root - 2022-06-22 22:47:30,453 - INFO - 35 - data has been imported
+root - 2022-06-22 22:47:30,454 - INFO - 60 - data has been prepared
+root - 2022-06-22 22:47:30,454 - INFO - 65 - data has been split into X and y
+root - 2022-06-22 22:47:30,455 - INFO - 71 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-22 22:47:31,160 - INFO - 81 - the models have been fitted
+root - 2022-06-22 22:47:31,209 - INFO - 87 - the models have been saved
+root - 2022-06-22 22:50:16,141 - INFO - analysis - import_data - 35 - data has been imported
+root - 2022-06-22 22:50:16,142 - INFO - analysis - prepare_dataset - 60 - data has been prepared
+root - 2022-06-22 22:50:16,143 - INFO - analysis - split_data_X_y - 65 - data has been split into X and y
+root - 2022-06-22 22:50:16,143 - INFO - analysis - my_train_test_split - 71 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-22 22:50:16,779 - INFO - analysis - fit_models - 81 - the models have been fitted
+root - 2022-06-22 22:50:16,823 - INFO - analysis - save_models - 87 - the models have been saved
+root - 2022-06-22 23:27:10,652 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-22 23:27:10,656 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-22 23:27:10,659 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-22 23:27:10,662 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-22 23:27:11,325 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-22 23:28:57,601 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-22 23:28:57,602 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-22 23:28:57,602 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-22 23:28:57,603 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-22 23:28:58,262 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-22 23:29:00,589 - INFO - analysis - save_models - 92 - the models have been saved
+root - 2022-06-22 23:31:28,197 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-22 23:31:28,197 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-22 23:31:28,198 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-22 23:31:28,199 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-22 23:31:28,913 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-22 23:31:30,919 - INFO - analysis - save_models - 92 - the models have been saved
+root - 2022-06-22 23:37:46,289 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-22 23:37:46,291 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-22 23:37:46,294 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-22 23:37:46,296 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-22 23:37:46,982 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-22 23:37:49,132 - INFO - analysis - save_models - 91 - the models have been saved
+root - 2022-06-22 23:38:59,747 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-22 23:38:59,748 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-22 23:38:59,749 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-22 23:38:59,750 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-22 23:39:00,435 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-22 23:39:32,495 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-22 23:39:32,496 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-22 23:39:32,497 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-22 23:39:32,497 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-22 23:39:33,162 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-22 23:44:01,057 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-22 23:44:01,060 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-22 23:44:01,062 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-22 23:44:01,064 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-22 23:44:01,800 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-22 23:44:01,824 - INFO - analysis - save_models - 89 - the models have been saved
+root - 2022-06-22 23:45:51,300 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-22 23:45:51,302 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-22 23:45:51,304 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-22 23:45:51,307 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-22 23:45:51,946 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-22 23:45:51,973 - INFO - analysis - save_models - 89 - the models have been saved
+root - 2022-06-22 23:47:03,229 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-22 23:47:03,232 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-22 23:47:03,235 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-22 23:47:03,237 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-22 23:47:03,893 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-22 23:47:03,913 - INFO - analysis - save_models - 89 - the models have been saved
+root - 2022-06-22 23:49:08,598 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-22 23:49:08,600 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-22 23:49:08,602 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-22 23:49:08,604 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-22 23:49:09,253 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-22 23:49:09,273 - INFO - analysis - save_models - 89 - the models have been saved
+root - 2022-06-22 23:50:18,041 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-22 23:50:18,042 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-22 23:50:18,043 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-22 23:50:18,044 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-22 23:50:18,704 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-22 23:50:18,722 - INFO - analysis - save_models - 89 - the models have been saved
+root - 2022-06-22 23:51:03,772 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-22 23:51:03,772 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-22 23:51:03,773 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-22 23:51:03,774 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-22 23:51:04,417 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-22 23:51:04,437 - INFO - analysis - save_models - 89 - the models have been saved
+root - 2022-06-23 11:50:04,916 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-23 11:50:04,922 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-23 11:50:04,926 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-23 11:50:04,931 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-23 11:50:05,660 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-23 11:50:05,676 - INFO - analysis - save_models - 89 - the models have been saved
+root - 2022-06-23 11:56:40,982 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-23 11:56:40,983 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-23 11:56:40,984 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-23 11:56:40,988 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-23 11:56:41,764 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-23 11:56:41,806 - INFO - analysis - save_models - 89 - the models have been saved
+root - 2022-06-23 11:56:53,475 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-23 11:56:53,476 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-23 11:56:53,476 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-23 11:56:53,477 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-23 11:56:54,160 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-23 11:56:54,179 - INFO - analysis - save_models - 89 - the models have been saved
+root - 2022-06-23 11:58:09,447 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-23 11:58:09,448 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-23 11:58:09,449 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-23 11:58:09,450 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-23 11:58:10,178 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-23 11:58:10,247 - INFO - analysis - save_models - 89 - the models have been saved
+root - 2022-06-23 12:05:05,663 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-23 12:05:05,664 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-23 12:05:05,665 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-23 12:05:05,666 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-23 12:05:06,391 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-23 12:05:06,446 - INFO - analysis - save_models - 89 - the models have been saved
+root - 2022-06-23 12:06:37,533 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-23 12:06:37,534 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-23 12:06:37,535 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-23 12:06:37,537 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-23 12:06:38,266 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-23 12:06:38,356 - INFO - analysis - save_models - 89 - the models have been saved
+root - 2022-06-23 12:26:43,864 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-23 12:26:43,865 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-23 12:26:43,866 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-23 12:26:43,867 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-23 12:26:44,737 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-23 12:26:44,755 - INFO - analysis - save_models - 89 - the models have been saved
+root - 2022-06-23 12:39:45,551 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-23 12:39:45,552 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-23 12:39:45,553 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-23 12:39:45,554 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-23 12:39:46,223 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-23 12:39:46,241 - INFO - analysis - save_models - 89 - the models have been saved
+root - 2022-06-23 12:40:05,037 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-23 12:40:05,038 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-23 12:40:05,039 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-23 12:40:05,041 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-23 12:40:05,903 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-23 12:40:05,968 - INFO - analysis - save_models - 89 - the models have been saved
+root - 2022-06-23 12:40:24,901 - INFO - analysis - import_data - 36 - data has been imported
+root - 2022-06-23 12:40:24,903 - INFO - analysis - prepare_dataset - 61 - data has been prepared
+root - 2022-06-23 12:40:24,904 - INFO - analysis - split_data_X_y - 66 - data has been split into X and y
+root - 2022-06-23 12:40:24,905 - INFO - analysis - my_train_test_split - 72 - data has been split into X_train, x_train, y_test, y_train
+root - 2022-06-23 12:40:25,743 - INFO - analysis - fit_models - 82 - the models have been fitted
+root - 2022-06-23 12:40:25,832 - INFO - analysis - save_models - 89 - the models have been saved

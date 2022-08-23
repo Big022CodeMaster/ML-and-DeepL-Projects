@@ -1,0 +1,5 @@
+{
+    "test_size": 0.2,
+    "num_of_records": 100,
+    "rel_ini_file_path": "./config/logging.ini"
+}

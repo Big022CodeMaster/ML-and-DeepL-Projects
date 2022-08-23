@@ -1,0 +1,106 @@
+root - INFO - 2022-06-22 15:06:02,646 - analysis.py - analysis - {'Model': SVC(kernel='linear'), 'Score': 0.972}
+root - INFO - 2022-06-22 15:06:02,677 - analysis.py - analysis - {'Model': SVC(C=2.0, kernel='linear'), 'Score': 0.972}
+root - INFO - 2022-06-22 15:06:02,778 - analysis.py - analysis - {'Model': SVC(C=3.0, kernel='linear'), 'Score': 0.972}
+root - INFO - 2022-06-22 15:06:02,814 - analysis.py - analysis - {'Model': SVC(C=4.0, kernel='linear'), 'Score': 0.972}
+root - INFO - 2022-06-22 15:06:02,920 - analysis.py - analysis - {'Model': SVC(C=5.0, kernel='linear'), 'Score': 0.972}
+root - INFO - 2022-06-22 15:06:03,106 - analysis.py - analysis - {'Model': SVC(C=10.0, kernel='linear'), 'Score': 0.972}
+root - INFO - 2022-06-22 15:06:03,250 - analysis.py - analysis - {'Model': SVC(C=15.0, kernel='linear'), 'Score': 0.972}
+root - INFO - 2022-06-22 15:06:03,298 - analysis.py - analysis - {'Model': SVC(C=20.0, kernel='linear'), 'Score': 0.972}
+root - INFO - 2022-06-22 15:06:03,456 - analysis.py - analysis - {'Model': SVC(C=30.0, kernel='linear'), 'Score': 0.972}
+root - INFO - 2022-06-22 15:06:03,534 - analysis.py - analysis - {'Model': SVC(C=40.0, kernel='linear'), 'Score': 0.972}
+root - INFO - 2022-06-22 15:06:03,653 - analysis.py - analysis - {'Model': SVC(C=50.0, kernel='linear'), 'Score': 0.972}
+root - INFO - 2022-06-22 15:06:03,729 - analysis.py - analysis - {'Model': SVC(C=80.0, kernel='linear'), 'Score': 0.972}
+root - INFO - 2022-06-22 15:06:03,786 - analysis.py - analysis - {'Model': SVC(C=100.0, kernel='linear'), 'Score': 0.972}
+root - INFO - 2022-06-22 15:06:03,892 - analysis.py - analysis - {'Model': SVC(kernel='poly'), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:04,066 - analysis.py - analysis - {'Model': SVC(C=2.0, kernel='poly'), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:04,321 - analysis.py - analysis - {'Model': SVC(C=3.0, kernel='poly'), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:04,361 - analysis.py - analysis - {'Model': SVC(C=4.0, kernel='poly'), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:04,525 - analysis.py - analysis - {'Model': SVC(C=5.0, kernel='poly'), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:04,638 - analysis.py - analysis - {'Model': SVC(C=10.0, kernel='poly'), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:04,706 - analysis.py - analysis - {'Model': SVC(C=15.0, kernel='poly'), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:04,835 - analysis.py - analysis - {'Model': SVC(C=20.0, kernel='poly'), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:04,914 - analysis.py - analysis - {'Model': SVC(C=30.0, kernel='poly'), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:04,975 - analysis.py - analysis - {'Model': SVC(C=40.0, kernel='poly'), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:05,143 - analysis.py - analysis - {'Model': SVC(C=50.0, kernel='poly'), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:05,201 - analysis.py - analysis - {'Model': SVC(C=80.0, kernel='poly'), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:05,332 - analysis.py - analysis - {'Model': SVC(C=100.0, kernel='poly'), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:05,575 - analysis.py - analysis - {'Model': SVC(), 'Score': 0.992}
+root - INFO - 2022-06-22 15:06:05,718 - analysis.py - analysis - {'Model': SVC(C=2.0), 'Score': 0.992}
+root - INFO - 2022-06-22 15:06:05,855 - analysis.py - analysis - {'Model': SVC(C=3.0), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:05,980 - analysis.py - analysis - {'Model': SVC(C=4.0), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:06,113 - analysis.py - analysis - {'Model': SVC(C=5.0), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:06,249 - analysis.py - analysis - {'Model': SVC(C=10.0), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:06,381 - analysis.py - analysis - {'Model': SVC(C=15.0), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:06,617 - analysis.py - analysis - {'Model': SVC(C=20.0), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:06,796 - analysis.py - analysis - {'Model': SVC(C=30.0), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:06,932 - analysis.py - analysis - {'Model': SVC(C=40.0), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:07,063 - analysis.py - analysis - {'Model': SVC(C=50.0), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:07,191 - analysis.py - analysis - {'Model': SVC(C=80.0), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:07,329 - analysis.py - analysis - {'Model': SVC(C=100.0), 'Score': 0.989}
+root - INFO - 2022-06-22 15:06:07,496 - analysis.py - analysis - {'Model': SVC(kernel='sigmoid'), 'Score': 0.917}
+root - INFO - 2022-06-22 15:06:07,642 - analysis.py - analysis - {'Model': SVC(C=2.0, kernel='sigmoid'), 'Score': 0.872}
+root - INFO - 2022-06-22 15:06:07,900 - analysis.py - analysis - {'Model': SVC(C=3.0, kernel='sigmoid'), 'Score': 0.864}
+root - INFO - 2022-06-22 15:06:08,041 - analysis.py - analysis - {'Model': SVC(C=4.0, kernel='sigmoid'), 'Score': 0.85}
+root - INFO - 2022-06-22 15:06:08,198 - analysis.py - analysis - {'Model': SVC(C=5.0, kernel='sigmoid'), 'Score': 0.839}
+root - INFO - 2022-06-22 15:06:08,340 - analysis.py - analysis - {'Model': SVC(C=10.0, kernel='sigmoid'), 'Score': 0.822}
+root - INFO - 2022-06-22 15:06:08,472 - analysis.py - analysis - {'Model': SVC(C=15.0, kernel='sigmoid'), 'Score': 0.814}
+root - INFO - 2022-06-22 15:06:08,586 - analysis.py - analysis - {'Model': SVC(C=20.0, kernel='sigmoid'), 'Score': 0.808}
+root - INFO - 2022-06-22 15:06:08,702 - analysis.py - analysis - {'Model': SVC(C=30.0, kernel='sigmoid'), 'Score': 0.814}
+root - INFO - 2022-06-22 15:06:08,817 - analysis.py - analysis - {'Model': SVC(C=40.0, kernel='sigmoid'), 'Score': 0.814}
+root - INFO - 2022-06-22 15:06:08,934 - analysis.py - analysis - {'Model': SVC(C=50.0, kernel='sigmoid'), 'Score': 0.8}
+root - INFO - 2022-06-22 15:06:09,043 - analysis.py - analysis - {'Model': SVC(C=80.0, kernel='sigmoid'), 'Score': 0.8}
+root - INFO - 2022-06-22 15:06:09,160 - analysis.py - analysis - {'Model': SVC(C=100.0, kernel='sigmoid'), 'Score': 0.792}
+root - INFO - 2022-06-22 15:06:09,161 - analysis.py - analysis - The model scoring is finished
+root - INFO - 2022-06-22 15:06:42,261 - {'Model': SVC(kernel='linear'), 'Score': 0.978}
+root - INFO - 2022-06-22 15:06:42,468 - {'Model': SVC(C=2.0, kernel='linear'), 'Score': 0.978}
+root - INFO - 2022-06-22 15:06:42,597 - {'Model': SVC(C=3.0, kernel='linear'), 'Score': 0.978}
+root - INFO - 2022-06-22 15:06:42,781 - {'Model': SVC(C=4.0, kernel='linear'), 'Score': 0.978}
+root - INFO - 2022-06-22 15:06:42,888 - {'Model': SVC(C=5.0, kernel='linear'), 'Score': 0.978}
+root - INFO - 2022-06-22 15:06:42,941 - {'Model': SVC(C=10.0, kernel='linear'), 'Score': 0.978}
+root - INFO - 2022-06-22 15:06:43,045 - {'Model': SVC(C=15.0, kernel='linear'), 'Score': 0.978}
+root - INFO - 2022-06-22 15:06:43,079 - {'Model': SVC(C=20.0, kernel='linear'), 'Score': 0.978}
+root - INFO - 2022-06-22 15:06:43,203 - {'Model': SVC(C=30.0, kernel='linear'), 'Score': 0.978}
+root - INFO - 2022-06-22 15:06:43,399 - {'Model': SVC(C=40.0, kernel='linear'), 'Score': 0.978}
+root - INFO - 2022-06-22 15:06:43,471 - {'Model': SVC(C=50.0, kernel='linear'), 'Score': 0.978}
+root - INFO - 2022-06-22 15:06:43,576 - {'Model': SVC(C=80.0, kernel='linear'), 'Score': 0.978}
+root - INFO - 2022-06-22 15:06:43,608 - {'Model': SVC(C=100.0, kernel='linear'), 'Score': 0.978}
+root - INFO - 2022-06-22 15:06:43,813 - {'Model': SVC(kernel='poly'), 'Score': 0.994}
+root - INFO - 2022-06-22 15:06:43,952 - {'Model': SVC(C=2.0, kernel='poly'), 'Score': 0.992}
+root - INFO - 2022-06-22 15:06:44,002 - {'Model': SVC(C=3.0, kernel='poly'), 'Score': 0.992}
+root - INFO - 2022-06-22 15:06:44,110 - {'Model': SVC(C=4.0, kernel='poly'), 'Score': 0.992}
+root - INFO - 2022-06-22 15:06:44,161 - {'Model': SVC(C=5.0, kernel='poly'), 'Score': 0.992}
+root - INFO - 2022-06-22 15:06:44,364 - {'Model': SVC(C=10.0, kernel='poly'), 'Score': 0.992}
+root - INFO - 2022-06-22 15:06:44,477 - {'Model': SVC(C=15.0, kernel='poly'), 'Score': 0.992}
+root - INFO - 2022-06-22 15:06:44,513 - {'Model': SVC(C=20.0, kernel='poly'), 'Score': 0.992}
+root - INFO - 2022-06-22 15:06:44,638 - {'Model': SVC(C=30.0, kernel='poly'), 'Score': 0.992}
+root - INFO - 2022-06-22 15:06:44,737 - {'Model': SVC(C=40.0, kernel='poly'), 'Score': 0.992}
+root - INFO - 2022-06-22 15:06:44,842 - {'Model': SVC(C=50.0, kernel='poly'), 'Score': 0.992}
+root - INFO - 2022-06-22 15:06:45,047 - {'Model': SVC(C=80.0, kernel='poly'), 'Score': 0.992}
+root - INFO - 2022-06-22 15:06:45,099 - {'Model': SVC(C=100.0, kernel='poly'), 'Score': 0.992}
+root - INFO - 2022-06-22 15:06:45,279 - {'Model': SVC(), 'Score': 0.994}
+root - INFO - 2022-06-22 15:06:45,468 - {'Model': SVC(C=2.0), 'Score': 0.994}
+root - INFO - 2022-06-22 15:06:45,591 - {'Model': SVC(C=3.0), 'Score': 0.994}
+root - INFO - 2022-06-22 15:06:45,724 - {'Model': SVC(C=4.0), 'Score': 0.994}
+root - INFO - 2022-06-22 15:06:45,819 - {'Model': SVC(C=5.0), 'Score': 0.994}
+root - INFO - 2022-06-22 15:06:45,964 - {'Model': SVC(C=10.0), 'Score': 0.994}
+root - INFO - 2022-06-22 15:06:46,205 - {'Model': SVC(C=15.0), 'Score': 0.994}
+root - INFO - 2022-06-22 15:06:46,373 - {'Model': SVC(C=20.0), 'Score': 0.994}
+root - INFO - 2022-06-22 15:06:46,496 - {'Model': SVC(C=30.0), 'Score': 0.994}
+root - INFO - 2022-06-22 15:06:46,624 - {'Model': SVC(C=40.0), 'Score': 0.994}
+root - INFO - 2022-06-22 15:06:46,748 - {'Model': SVC(C=50.0), 'Score': 0.994}
+root - INFO - 2022-06-22 15:06:46,883 - {'Model': SVC(C=80.0), 'Score': 0.994}
+root - INFO - 2022-06-22 15:06:47,001 - {'Model': SVC(C=100.0), 'Score': 0.994}
+root - INFO - 2022-06-22 15:06:47,163 - {'Model': SVC(kernel='sigmoid'), 'Score': 0.914}
+root - INFO - 2022-06-22 15:06:47,312 - {'Model': SVC(C=2.0, kernel='sigmoid'), 'Score': 0.878}
+root - INFO - 2022-06-22 15:06:47,443 - {'Model': SVC(C=3.0, kernel='sigmoid'), 'Score': 0.85}
+root - INFO - 2022-06-22 15:06:47,562 - {'Model': SVC(C=4.0, kernel='sigmoid'), 'Score': 0.836}
+root - INFO - 2022-06-22 15:06:47,684 - {'Model': SVC(C=5.0, kernel='sigmoid'), 'Score': 0.842}
+root - INFO - 2022-06-22 15:06:47,789 - {'Model': SVC(C=10.0, kernel='sigmoid'), 'Score': 0.811}
+root - INFO - 2022-06-22 15:06:47,898 - {'Model': SVC(C=15.0, kernel='sigmoid'), 'Score': 0.811}
+root - INFO - 2022-06-22 15:06:48,000 - {'Model': SVC(C=20.0, kernel='sigmoid'), 'Score': 0.797}
+root - INFO - 2022-06-22 15:06:48,105 - {'Model': SVC(C=30.0, kernel='sigmoid'), 'Score': 0.803}
+root - INFO - 2022-06-22 15:06:48,216 - {'Model': SVC(C=40.0, kernel='sigmoid'), 'Score': 0.8}
+root - INFO - 2022-06-22 15:06:48,512 - {'Model': SVC(C=50.0, kernel='sigmoid'), 'Score': 0.797}
+root - INFO - 2022-06-22 15:06:48,617 - {'Model': SVC(C=80.0, kernel='sigmoid'), 'Score': 0.786}
+root - INFO - 2022-06-22 15:06:48,722 - {'Model': SVC(C=100.0, kernel='sigmoid'), 'Score': 0.786}
+root - INFO - 2022-06-22 15:06:48,724 - The model scoring is finished

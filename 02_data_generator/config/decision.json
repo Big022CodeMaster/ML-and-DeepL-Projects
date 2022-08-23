@@ -1,0 +1,18 @@
+{
+    "absagen": {
+        "low": 1,
+        "high": 43
+    },
+    "HR Senior Review": {
+        "low": 44,
+        "high": 51
+    },
+    "Fachabteilung Review": {
+        "low": 52,
+        "high": 59
+    },
+    "Phase 2 Interview Termin einstellen": {
+        "low": 60,
+        "high": 80
+    }
+}

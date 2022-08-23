@@ -1,0 +1,9 @@
+{
+"level": "DEBUG",    
+"formatter": "name: %(name)s -- level: %(levelname)s -- %(asctime)s -- filename: %(filename)s -- module: %(module)s -- function: %(funcName)s -- line: %(lineno)d -- message: %(message)s",
+"file_name": "titanic.log",
+"when": "W6",
+"interval": 4,
+"backupCount": 100,
+"encoding": "UTF-8"
+}

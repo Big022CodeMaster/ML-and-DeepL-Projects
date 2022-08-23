@@ -1,0 +1,10 @@
+{
+    "country_code": "DEU",
+    "input_file_name": "dataset.csv",
+    "output_file_name": "predicted_values.csv",
+    "estimated_start_year": 2023,
+    "estimated_stop_year": 2030,
+    "start_training": 1970,
+    "end_training": 2019
+}
+
